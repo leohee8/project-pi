@@ -1,4 +1,4 @@
-project-pi
+Project Pi
 ==========
 
 JobStreet.com Product Identity
